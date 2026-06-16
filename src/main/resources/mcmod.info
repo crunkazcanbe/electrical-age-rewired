@@ -1,0 +1,14 @@
+[
+    {
+        "modid":"eln",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "name":"Electrical Age: Re-Wired",
+        "url":"https://github.com/crunkazcanbe/electrical-age-rewired/",
+		"credits": "Original Electrical Age Team; Re-Wired port by brambora69123; unofficial 2.0.0-a build completed with Claude (Anthropic)",
+        "logoFile": "assets/eln/logo.png",
+        "requiredMods":[
+            "Forge"
+        ]
+    }
+]
