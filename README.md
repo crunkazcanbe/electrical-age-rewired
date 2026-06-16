@@ -18,6 +18,7 @@
 - **Item names fixed** — items that showed raw translation keys (e.g. `tile.50v_generator`) now display their proper names.
 - **Crash on world close fixed** — the game no longer hangs on "Shutting down internal server" (an unhandled error during eln's shutdown).
 - Internal placeholder items (ghost, flubber, node containers) hidden from the item list.
+- **JEI / HadEnoughItems integration** — eln machines (Macerator, Compressor, Plate Machine, Magnetizer) now show their processing recipes in the item viewer; right-click a machine to see what it makes.
 
 ---
 
