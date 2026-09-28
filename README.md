@@ -1,12 +1,12 @@
 # Electrical Age: Re-Wired — Unofficial Build
 
-> ### ⚡ Unofficial community build `2.0.0-unofficial-a`
+> ### ⚡ Unofficial community build `2.0.0-unofficial-b`
 > This is an **unofficial** continuation build of [Electrical Age: Re-Wired](https://github.com/brambora69123/electrical-age-rewired)
 > (the 1.12.2 port by **brambora69123**, which itself ports the original [Electrical Age](https://github.com/Electrical-Age/ElectricalAge)).
 > The upstream port stalled at roughly 90%; this build picks up the loose ends so the mod is actually playable end‑to‑end.
 >
 > **This build was completed with [Claude](https://claude.com/claude-code) (Anthropic), working with [@crunkazcanbe](https://github.com/crunkazcanbe).**
-> It is **not** affiliated with or endorsed by the original Electrical Age team or brambora69123 — all original authors retain full credit (see below). Same name, same parts; just finished and labeled *unofficial build a*.
+> It is **not** affiliated with or endorsed by the original Electrical Age team or brambora69123 — all original authors retain full credit (see below). Same name, same parts; just finished and labeled *unofficial build b*.
 >
 > Released for the community to play and **report bugs** so they can be fixed. Use at your own risk; back up your worlds.
 
@@ -52,7 +52,7 @@ You need Git and a JDK. This build's Gradle (RetroFuturaGradle) requires **JDK 2
 git clone https://github.com/crunkazcanbe/electrical-age-rewired.git
 cd electrical-age-rewired
 JAVA_HOME=/path/to/jdk-25 ./gradlew build
-# output: build/libs/eln-2.0.0-unofficial-a.jar
+# output: build/libs/eln-2.0.0-unofficial-b.jar
 ```
 
 ## ABOUT
@@ -81,7 +81,7 @@ Electrical Age: Re-Wired is still **pre-alpha**. Use at your own risk and make m
 
 ## CREDITS
 
-This unofficial `2.0.0-unofficial-a` build was completed with **Claude (Anthropic)** working with **[@crunkazcanbe](https://github.com/crunkazcanbe)**.
+This unofficial `2.0.0-unofficial-b` build was completed with **Claude (Anthropic)** working with **[@crunkazcanbe](https://github.com/crunkazcanbe)**.
 
 **Re-Wired 1.12.2 port:**
 - **brambora69123** (mod porting)

@@ -34,7 +34,7 @@ def getGitVersion() {
     }
 }
 
-def fullVersion = "2.0.0-unofficial-a"
+def fullVersion = "2.0.0-unofficial-b"
 def versionMatcher = (fullVersion =~ /(\d+)\.(\d+)\.(\d+)/)
 def (vMajor, vMinor, vRevision) = ["0", "0", "0"]
 if (versionMatcher.find()) {
